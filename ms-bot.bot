@@ -1,0 +1,15 @@
+{
+    "name": "ms-bot",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "992a8fd0-69c4-11e8-8b35-c39050f604b8",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://127.0.0.1:3978/api/messages",
+            "name": "http://127.0.0.1:3978/api/messages"
+        }
+    ]
+}
